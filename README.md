@@ -19,7 +19,7 @@ I'm currently pursuing a **BSc in Computer Science** while building practical sk
 - **Cybersecurity:** Foundational training and practical labs, with ongoing development.
 
 ### 📂 Projects
-- [Cybersecurity Portfolio](https://github.com/adriaansteyn-cyber/cybersecurity-portfolio) — Documentation of my cybersecurity learning and projects.
+- [Cybersecurity Portfolio](https://github.com/adriaansteyn-cyber/cybersecurity-portfolio.) — Documentation of my cybersecurity learning and projects.
 - **Wazuh SIEM Home Lab** — In progress.
 - **Windows Event Log Investigation** — Practical investigation exercises.
 
