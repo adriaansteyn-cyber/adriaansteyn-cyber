@@ -1,4 +1,4 @@
-# Hi, I'm Adrian Steyn 👋
+# Hi, I'm Adriaan Steyn 👋
 
 ### Aspiring Cybersecurity Analyst | Future DFIR Professional
 
